@@ -14,7 +14,7 @@ Gem::Specification.new do |spec|
   # to allow pushing to a single host or delete this section to allow pushing to any host.
 
   spec.metadata["homepage_uri"]     = spec.homepage
-  spec.metadata["source_code_uri"]  = "https://github.com/amrabuaza/ruby-storybook"
+  spec.metadata["source_code_uri"]  = "https://github.com/amrabuaza/storybook-rails-engine"
 
   spec.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
 
