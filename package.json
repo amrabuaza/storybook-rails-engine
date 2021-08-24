@@ -1,0 +1,14 @@
+{
+  "name": "storybook_engine",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "storybook": "start-storybook",
+    "storybook:build": "build-storybook -o public/_storybook",
+    "storybook:write-json": "rake app:view_component_storybook:write_stories_json"
+  },
+  "devDependencies": {
+    "@storybook/addon-controls": "^6.3.7",
+    "@storybook/server": "^6.3.7"
+  }
+}
