@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4ef107b-b5d0-4a96-95c0-cf9ac07f0316" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/storybook_engine/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/storybook_engine/version.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storybook_engine-0.4.0.gem" beforeDir="false" afterPath="$PROJECT_DIR$/storybook_engine-0.4.0.gem" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -256,7 +255,7 @@
       <workItem from="1629718948895" duration="933000" />
       <workItem from="1629719906955" duration="1686000" />
       <workItem from="1629794049248" duration="631000" />
-      <workItem from="1629874499770" duration="308000" />
+      <workItem from="1629874499770" duration="671000" />
     </task>
     <servers />
   </component>
