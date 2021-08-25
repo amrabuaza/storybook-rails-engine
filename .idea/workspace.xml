@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4ef107b-b5d0-4a96-95c0-cf9ac07f0316" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/lib/storybook_engine/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/storybook_engine/version.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook_engine-0.4.0.gem" beforeDir="false" afterPath="$PROJECT_DIR$/storybook_engine-0.4.0.gem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/tasks/storybook.rake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/storybook-rails-engine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/storybook-rails-engine.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/storybook_engine/engine.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/storybook_engine/engine.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +18,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1x7vTMs9h20IVPGahTdocaxJLVN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -32,6 +43,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -255,7 +267,7 @@
       <workItem from="1629718948895" duration="933000" />
       <workItem from="1629719906955" duration="1686000" />
       <workItem from="1629794049248" duration="631000" />
-      <workItem from="1629874499770" duration="671000" />
+      <workItem from="1629874499770" duration="2352000" />
     </task>
     <servers />
   </component>
