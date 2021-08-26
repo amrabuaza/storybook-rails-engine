@@ -25,7 +25,7 @@ $ gem install storybook_engine
 
 After add gem please add this line into your applications.scss:
 ```bash
-@import "storybook_engine/application";
+@import "storybook_engine";
 ```
 
 ## License
