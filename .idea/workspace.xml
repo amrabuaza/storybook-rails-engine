@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4ef107b-b5d0-4a96-95c0-cf9ac07f0316" name="Changes" comment="" />
+    <list default="true" id="c4ef107b-b5d0-4a96-95c0-cf9ac07f0316" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/storybook_engine-1.4.2.gem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/storybook_engine/_index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/storybook_engine/_index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/storybook_engine/components/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/storybook_engine/components/_buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/storybook_engine/helpers/_colors.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/storybook_engine/helpers/_common-used.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/storybook_engine/helpers/_common-used.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/storybook_engine/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/storybook_engine/version.rb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -272,7 +280,7 @@
       <workItem from="1629719906955" duration="1686000" />
       <workItem from="1629794049248" duration="631000" />
       <workItem from="1629874499770" duration="8123000" />
-      <workItem from="1629917860234" duration="6729000" />
+      <workItem from="1629917860234" duration="8170000" />
     </task>
     <servers />
   </component>
