@@ -1,9 +1,11 @@
 # StorybookEngine
-Short description and motivation.
+Storybook with view components rails engine
 
 ## Usage
-How to use my plugin.
-
+##### Button
+```ruby
+= render(ButtonComponent.new(options: {type: "submit"},classes: "w-100")) { "Save" }
+```
 ## Installation
 Add this line to your application's Gemfile:
 
@@ -21,8 +23,10 @@ Or install it yourself as:
 $ gem install storybook_engine
 ```
 
-## Contributing
-Contribution directions go here.
+After add gem please add this line into your applications.scss:
+```bash
+@import "storybook_engine/application";
+```
 
 ## License
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).

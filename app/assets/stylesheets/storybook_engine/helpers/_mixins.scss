@@ -1,0 +1,13 @@
+// Custom small screen
+@mixin mobile {
+  @media (max-width: 768px) {
+    @content;
+  }
+}
+
+// Custom large screen
+@mixin desktop {
+  @media (min-width: 769px) {
+    @content;
+  }
+}

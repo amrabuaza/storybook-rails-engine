@@ -1,0 +1,5 @@
+.form-group
+  - if !@options[:label].nil?
+    %label{class: @options[:label_classes]}
+      = @options[:label]
+  %input{class: classes,"name" => @options[:field_name],"value"=> @options[:default_value],"placeholder"=>@options[:placeholder]}

@@ -5,8 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4ef107b-b5d0-4a96-95c0-cf9ac07f0316" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/storybook_engine/components/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/storybook_engine/helpers/_colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/storybook_engine/helpers/_common-used.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/storybook_engine/helpers/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/storybook_engine/input_component.html.haml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/storybook_engine/input_component.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/storybook_engine/label_component.html.haml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/storybook_engine/label_component.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/storybook_engine/link_component.html.haml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/storybook_engine/link_component.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook_engine-1.0.0.gem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storybook_engine-1.1.0.gem" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/storybook_engine/application.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/storybook_engine/application.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/storybook_engine/buttonComponent/button_component.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/storybook_engine/button_component.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/storybook_engine/buttonComponent/button_component.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/storybook_engine/button_component.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/storybook_engine/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/storybook_engine/version.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storybook_engine-0.9.0.gem" beforeDir="false" afterPath="$PROJECT_DIR$/storybook_engine-0.9.0.gem" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,16 +43,19 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1x7vTMs9h20IVPGahTdocaxJLVN" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/components/storybook_engine" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -44,8 +65,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/components/storybook_engine" />
+      <recent name="$PROJECT_DIR$/app/assets/stylesheets/storybook_engine" />
       <recent name="C:\Users\cr925\OneDrive\Desktop\ruby\ruby-storybook\storybook-engine" />
       <recent name="C:\Users\cr925\OneDrive\Desktop\ruby\ruby-storybook\storybook-engine\.storybook" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/components/storybook_engine" />
+      <recent name="$PROJECT_DIR$/app/components/storybook_engine/buttonComponent" />
     </key>
   </component>
   <component name="RunManager" selected="Rails.Development: storybook-rails-engine">
@@ -265,6 +292,7 @@
       <workItem from="1629719906955" duration="1686000" />
       <workItem from="1629794049248" duration="631000" />
       <workItem from="1629874499770" duration="8123000" />
+      <workItem from="1629917860234" duration="3308000" />
     </task>
     <servers />
   </component>
@@ -282,5 +310,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

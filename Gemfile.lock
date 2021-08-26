@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    storybook_engine (0.8.0)
+    storybook_engine (1.0.0)
       rails (~> 6.1.4, >= 6.1.4.1)
 
 GEM

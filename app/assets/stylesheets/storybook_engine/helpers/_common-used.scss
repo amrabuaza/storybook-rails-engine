@@ -1,0 +1,31 @@
+@import "colors";
+@import "mixins";
+
+.delete-action {
+  cursor: pointer;
+
+  &:hover {
+    color: $red;
+  }
+}
+
+.table {
+  @include desktop {
+    display: table;
+  }
+}
+
+.error-message {
+  color: $red;
+  font-size: 0.75rem;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.zenhr-link {
+  &:hover {
+    text-decoration: none;
+  }
+}
