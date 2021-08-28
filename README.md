@@ -38,7 +38,7 @@ $primary-color: #49BFAC;
 @import "storybook_engine";
 ```
 
-### Usage
+## Usage
 
 ##### Button
 ```ruby
